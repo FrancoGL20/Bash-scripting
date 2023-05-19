@@ -3,3 +3,6 @@
 # FranciscoGL
 
 echo "Hola mundo, primer script!!!"
+echo $NOMBRE
+
+exit 0
