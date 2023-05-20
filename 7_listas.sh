@@ -14,3 +14,5 @@ conjuntos=({1..100} {A..Z} {a..z})
 
 # Imprimir los elementos de la lista de números
 echo "Lista de números: ${numeros[*]}"
+
+exit 0
