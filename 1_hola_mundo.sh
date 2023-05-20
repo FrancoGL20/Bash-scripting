@@ -1,6 +1,6 @@
 # !/bin/bash
-# Imprime un hola mundo
-# FranciscoGL
+# Hola mundo, primer script
+# FranciscoGL, Github: @FrancoGL20
 
 echo "Hola mundo, primer script!!!"
 echo $NOMBRE

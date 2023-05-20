@@ -1,6 +1,6 @@
 #!/bin/bash
 # Programa que permite ver, crear y operar variables
-# FranciscoGL
+# FranciscoGL, Github: @FrancoGL20
 
 parametro_1=40
 parametro_2=10

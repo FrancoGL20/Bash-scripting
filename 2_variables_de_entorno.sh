@@ -1,6 +1,6 @@
 # !/bin/bash
-# Variables locales y acceso a variables de entorno
-# FranciscoGL
+# Variables de entorno
+# FranciscoGL, Github: @FrancoGL20
 
 nombre="Francisco GL" # sintáxis correcta
 # nombre = "Francisco GL" # sintáxis incorrecta (no espacios en el "=")
