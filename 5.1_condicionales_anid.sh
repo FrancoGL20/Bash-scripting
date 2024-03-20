@@ -12,4 +12,10 @@ echo "el promedio del estudiante es: $promedio"
 
 if [ $promedio -ge 7 ]; then
     echo "Estudiante aprobado"
+else
+    if [ $promedio -ge 4] && [ $promedio -le 6 ]; then
+        echo "Estudiante regular"
+    else
+        echo "Estudiante reprobado"
+    fi
 fi
