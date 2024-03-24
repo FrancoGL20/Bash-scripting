@@ -1,5 +1,5 @@
 # !/bin/bash
-# 
+# Copia los archivos que empiezan con un número seguido de un punto a la carpeta archivos
 # FranciscoGL, Github: @FrancoGL20
 
 if [ ! -d "archivos" ]; then
